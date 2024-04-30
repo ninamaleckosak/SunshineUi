@@ -8164,6 +8164,7 @@ textarea.form-control-lg {
 .bg-dark {
   background-image: linear-gradient(to right, #ffb0bb, #ffc2a0);
   color: white; 
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
 }
 
 .bg-black {
